@@ -1,0 +1,105 @@
+{
+  "avocado-toast": {
+    "name": "Avocado & Poached Egg Toast",
+    "cuisine": "American",
+    "ingredients": [
+      "2 slices sourdough bread",
+      "1 ripe avocado",
+      "2 large eggs",
+      "1 tbsp extra virgin olive oil",
+      "Salt, black pepper, red pepper flakes"
+    ],
+    "instructions": "Toast sourdough slices. Mash avocado with olive oil, salt, and pepper. Poach eggs in simmering water for 3 minutes. Spread avocado on toast, top with poached eggs, and sprinkle red pepper flakes.",
+    "prep_time_minutes": 10,
+    "dietary_tags": [
+      "vegetarian",
+      "breakfast",
+      "quick"
+    ]
+  },
+  "quinoa-buddha-bowl": {
+    "name": "Mediterranean Quinoa Buddha Bowl",
+    "cuisine": "Mediterranean",
+    "ingredients": [
+      "1 cup cooked quinoa",
+      "1/2 cup canned chickpeas, rinsed",
+      "1/2 cup cherry tomatoes, halved",
+      "1/2 cup cucumber, diced",
+      "2 tbsp tahini dressing",
+      "1/4 cup kalamata olives"
+    ],
+    "instructions": "Arrange cooked quinoa in a bowl. Top with sections of chickpeas, cherry tomatoes, cucumber, and olives. Drizzle with creamy tahini dressing before serving.",
+    "prep_time_minutes": 15,
+    "dietary_tags": [
+      "vegan",
+      "gluten-free",
+      "lunch",
+      "healthy"
+    ]
+  },
+  "lemon-herb-salmon": {
+    "name": "Lemon Herb Baked Salmon",
+    "cuisine": "Seafood",
+    "ingredients": [
+      "2 fresh salmon fillets",
+      "1 tbsp olive oil",
+      "1 lemon, sliced",
+      "2 cloves garlic, minced",
+      "1 tbsp fresh dill and parsley",
+      "Salt and black pepper"
+    ],
+    "instructions": "Preheat oven to 400\u00b0F (200\u00b0C). Place salmon on a lined baking sheet, rub with olive oil and garlic. Season with salt, pepper, and fresh herbs. Top with lemon slices and bake for 12-15 minutes.",
+    "prep_time_minutes": 20,
+    "dietary_tags": [
+      "pescatarian",
+      "gluten-free",
+      "low-carb",
+      "dinner"
+    ]
+  },
+  "wild-mushroom-risotto": {
+    "name": "Creamy Wild Mushroom Risotto",
+    "cuisine": "Italian",
+    "ingredients": [
+      "1 cup Arborio rice",
+      "8 oz mixed wild mushrooms, sliced",
+      "4 cups warm vegetable broth",
+      "1/2 cup dry white wine",
+      "1 shallot, finely chopped",
+      "1/4 cup grated Parmesan cheese",
+      "2 tbsp butter"
+    ],
+    "instructions": "Saut\u00e9 mushrooms and shallots in butter until golden. Add Arborio rice and toast 2 minutes. Deglaze with white wine. Gradually add warm broth 1 ladle at a time while stirring until creamy. Stir in Parmesan and serve warm.",
+    "prep_time_minutes": 35,
+    "dietary_tags": [
+      "vegetarian",
+      "dinner",
+      "classic"
+    ]
+  },
+  "chicken-handi": {
+    "name": "Chicken Handi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken (1.2 kg)",
+      "Onion (5 thinly sliced)",
+      "Tomatoes (2 finely chopped)",
+      "Garlic (8 cloves chopped)",
+      "Ginger paste (1 tbsp)",
+      "Vegetable oil (\u00bc cup)",
+      "Cumin seeds (2 tsp)",
+      "Coriander seeds (3 tsp)",
+      "Turmeric powder (1 tsp)",
+      "Chilli powder (1 tsp)",
+      "Green chilli (2)",
+      "Yogurt (1 cup)",
+      "Cream (\u00be cup)",
+      "fenugreek (3 tsp Dried)",
+      "Garam masala (1 tsp)",
+      "Salt (To taste)"
+    ],
+    "instructions": "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside.\r\nTo the same pot, add the chopped garlic and saut\u00e9 for a minute. Then add the chopped tomatoes and cook until tomatoes turn soft. This would take about 5 minutes.\r\nThen return the fried onion to the pot and stir. Add ginger paste and saut\u00e9 well.\r\nNow add the cumin seeds, half of the coriander seeds and chopped green chillies. Give them a quick stir.\r\nNext goes in the spices \u2013 turmeric powder and red chilli powder. Saut\u00e9 the spices well for couple of minutes.\r\nAdd the chicken pieces to the wok, season it with salt to taste and cook the chicken covered on medium-low heat until the chicken is almost cooked through. This would take about 15 minutes. Slowly saut\u00e9ing the chicken will enhance the flavor, so do not expedite this step by putting it on high heat.\r\nWhen the oil separates from the spices, add the beaten yogurt keeping the heat on lowest so that the yogurt doesn\u2019t split. Sprinkle the remaining coriander seeds and add half of the dried fenugreek leaves. Mix well.\r\nFinally add the cream and give a final mix to combine everything well.\r\nSprinkle the remaining kasuri methi and garam masala and serve the chicken handi hot with naan or rotis. Enjoy!",
+    "prep_time_minutes": 45,
+    "dietary_tags": []
+  }
+}
